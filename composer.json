@@ -1,0 +1,11 @@
+{
+  "name": "vscode/workspaces",
+  "autoload": {
+    "psr-4": {
+      "Vscode\\Workspaces\\": "src/"
+    }
+  },
+  "scripts": {
+    "dev": "php -S 0.0.0.0:8080"
+  }
+}
